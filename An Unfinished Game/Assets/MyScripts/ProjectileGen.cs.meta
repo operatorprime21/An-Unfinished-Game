@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 35ad437b29f8c7346813b8a445a5ed9f
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - Orb: {instanceID: 0}
+  - acid: {fileID: 8300000, guid: 27c874456550b72439bc223400d9e4f1, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

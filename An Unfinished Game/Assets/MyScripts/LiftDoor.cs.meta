@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 4949da0d0b65a664f9c552530e9fd406
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - liftDoor: {instanceID: 0}
+  - line1: {instanceID: 0}
+  - intro: {instanceID: 0}
+  - doorClip: {fileID: 8300000, guid: bf8970008216e7b46bf5686a78404f6d, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

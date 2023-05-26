@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: e6544f70d20d75a4a894c73e9ea87e1e
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - YellowDoorA: {instanceID: 0}
+  - YellowDoorB: {instanceID: 0}
+  - DoorClip: {fileID: 8300000, guid: bf8970008216e7b46bf5686a78404f6d, type: 3}
+  - boxClip: {fileID: 8300000, guid: 9be6974d96012ec44b41407c07f411da, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
